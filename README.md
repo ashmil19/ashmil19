@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm [Your Name], a software engineer with a deep focus on building clean, efficient, and scalable solutions.  <br>🔧 I’ve had the privilege of working on complex systems that demand precision, performance, and creativity.  <br>🚀 Passionate about innovation, problem-solving, and pushing the boundaries of what tech can do.  <br>🛠️ From front-end finesse to back-end architecture—I'm all about delivering quality at every layer.  <br>📫 Let’s connect and build something meaningful.
+👋 Hey there! I'm Ashmil, a software engineer with a deep focus on building clean, efficient, and scalable solutions.  <br>🔧 I’ve had the privilege of working on complex systems that demand precision, performance, and creativity.  <br>🚀 Passionate about innovation, problem-solving, and pushing the boundaries of what tech can do.  <br>🛠️ From front-end finesse to back-end architecture—I'm all about delivering quality at every layer.  <br>📫 Let’s connect and build something meaningful.
 
 
 ## 🌐 Socials:
